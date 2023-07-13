@@ -7,5 +7,9 @@ I built iNoteBook to learn more about React, Node.js, Express, and MongoDB. I am
 Here I have attached a short video which demonstartes the iNoteBook App.
 
 
-https://github.com/venishaparmar/iNoteBook-MERN-Stack-Project/assets/92502898/19aa90b8-f2df-4929-b2d8-43a68754e571
+
+
+
+
+https://github.com/venishaparmar/iNoteBook-MERN-Stack-Project/assets/92502898/37d1915d-58e2-416a-9288-f49ee38f529f
 
